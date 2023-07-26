@@ -1,4 +1,4 @@
-// ishay eldar 208306233
+// ishay eldar
 
 import biuoop.GUI;
 import java.util.ArrayList;
