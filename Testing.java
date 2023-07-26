@@ -1,4 +1,4 @@
-//208306233 ishay eldar
+//ishay eldar
 import biuoop.DrawSurface;
 import biuoop.GUI;
 import biuoop.Sleeper;
